@@ -1,0 +1,4 @@
+proses pengerjaan tgl 18-20
+1. kita bikin assets
+2. nyambungin codeigniter dengan bootstrap
+3. halaman login yang bisa mengakses database sesuai dengan aktornya
